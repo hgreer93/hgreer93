@@ -19,7 +19,7 @@ Welcome to my little corner of GitHub! If it’s weird and technical, I’m inte
 
 ## 🎮 What I Love
 - Building game engines and production renderers (C++ is my jam)
-- R&D is half the fun.. and by half I mean all of it
+- R&D is half the fun.. and by half, I mean all of it
 - Making things work that probably shouldn’t
 
 ## 🧪 Current Obsessions
