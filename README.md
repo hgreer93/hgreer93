@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 # Hey, I'm Hayden 👋
 
-Welcome to my little corner of GitHub! If it’s weird and technical, I’m interested. Occasionally, I turn bugs into features. But don’t tell anyone..
+Welcome to my little corner of GitHub! If it’s weird and technical, I’m interested. Occasionally, I turn bugs into features, but don’t tell anyone..
 
 ## 🎮 What I Love
-- Building game engines and production renderers (C++ is my jam)
+- Building game engines and production renderers
 - R&D is half the fun.. and by half, I mean all of it
 - Making things work that probably shouldn’t
 
