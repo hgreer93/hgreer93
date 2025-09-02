@@ -17,15 +17,11 @@ Here are some ideas to get you started:
 
 Welcome to my little corner of GitHub! If it’s weird and technical, I’m interested. Occasionally, I turn bugs into features, but don’t tell anyone..
 
-## 🎮 What I Love
-- Building game engines and production renderers
-- R&D is half the fun.. and by half, I mean all of it
-- Making things work that probably shouldn’t
-
-## 🧪 Current Obsessions
-- Graphics tricks and awesome engine internals
-- Turning wild ideas into (questionably) working prototypes
-- Trying to figure out why that one bug only happens at 2am
+## What I Love
+- Building game engines and photorealistic renderers. It's fascinating!
+- R&D is half the fun.. and by half, I mean all of it :)
+- Also making things work that probably shouldn’t..
+  .. I seem to be good at that..
 
 ---
 
